@@ -16,7 +16,7 @@ For you convenience we have provided a script that uses the model we trained in 
 So you can use this script if you are just interested in detecting errors in documents.<br>
 The script can be found in the following file: **_ocr_predict_errors.py_**.<br><br>
 
-A summarized report can be found in the following <a href="https://github.com/RoyLevy24/OCR_error_detection/blob/main/ocr_error_detection_report.pdf"> link </a>.
+A summarized report can be found in the following <a href="https://github.com/nitzba/OCR_Error_Detection_Deep_Learning/blob/main/ocr_error_detection_report.pdf"> link </a>.
 
 ### Setup ⚙️
 
